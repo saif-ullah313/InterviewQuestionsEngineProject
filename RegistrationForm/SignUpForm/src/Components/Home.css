@@ -1,0 +1,27 @@
+.backgroundcolor {
+    background-color: rgb(45, 22, 66);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .HomeHeading {
+    margin: 0;
+    padding: 15px;
+  }
+  
+  .Heading1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+  }
+  
+  .Heading2 {
+    font-size: 2rem;
+    margin-top: 0;
+  }
+  

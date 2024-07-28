@@ -1,0 +1,42 @@
+.NavBar{
+    display: flex;
+    font-family: Arial, sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(12, 12, 12);
+    height: 10vh;
+    padding: 0 20px;
+    color: white;
+
+}
+.Header-right{
+    display: flex;
+    gap: 15px;
+}
+.SignUp-Button, .Login-Button {
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    margin-bottom: 2.3vh;
+    box-shadow: 2px 2px 2px red;
+  }
+  
+  .SignUp-Button {
+    background-color: rgb(8, 8, 8);
+
+  }
+  
+  .SignUp-Button:hover {
+    background-color: rgb(184, 45, 149);
+  }
+  
+  .Login-Button {
+    background-color: rgb(8, 8, 8);
+    
+  }
+  
+  .Login-Button:hover {
+    background-color: rgb(184, 45, 149);
+  }

@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+.Footer{
+  text-align: center;
+  background-color: rgb(10, 10, 10);
+  color: white;
+}
+
+.SetFooter{
+  display: flex;
+}
+.HelpUs{
+  margin-left: 50vw;
+  color:white;
+}
+.HelpUs ul{
+  list-style-type: none;
+  color:white;
+}
+
+.About{
+  margin-left: 12vw;
+  color: white;
+  list-style-type: none;
+}
+.AboutUs li{
+  list-style-type:none;
+}
+.Help  li a{
+  color:white;
+  
+}
+.Help li a :hover{
+  color: red;
+}

@@ -1,0 +1,24 @@
+.metrics-container {
+    padding: 20px;
+  }
+  
+  .metrics-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .metrics-card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    min-width: 200px;
+    text-align: center;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
